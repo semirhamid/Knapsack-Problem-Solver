@@ -1,0 +1,17 @@
+30
+Item,weight,value,n_items
+Backpack,0.8,200,3
+Water Bottle,0.2,50,10
+Hiking Boots,1.2,150,2
+Tent,2.5,400,1
+Sleeping Bag,1.8,300,2
+Camp Stove,0.6,100,4
+Flashlight,0.15,80,6
+First Aid Kit,0.3,70,3
+Cooking Utensils,0.4,60,5
+Insect Repellent,0.1,30,8
+Pocket Knife,0.1,50,7
+Headlamp,0.1,40,9
+Camping Chair,0.8,120,2
+Rain Jacket,0.5,90,4
+Hiking Pole,0.3,60,6

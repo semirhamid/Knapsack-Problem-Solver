@@ -1,0 +1,22 @@
+25
+Item,weight,value,n_items
+Smartphone,0.15,800,1
+Laptop,1.2,1200,1
+Tablet,0.8,500,2
+Smartwatch,0.1,300,3
+Headphones,0.2,250,4
+Bluetooth Speaker,0.3,200,2
+Camera,0.5,600,1
+Power Bank,0.25,150,3
+Portable Charger,0.1,100,5
+External Hard Drive,0.35,400,1
+USB Flash Drive,0.05,50,8
+Wireless Mouse,0.1,60,6
+Keyboard,0.4,120,2
+Monitor,1.5,800,1
+Printer,3,400,1
+Scanner,2,300,1
+Router,0.8,150,2
+Ethernet Cable,0.2,20,10
+HDMI Cable,0.1,15,12
+USB Cable,0.05,10,15

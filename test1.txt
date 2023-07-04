@@ -1,0 +1,12 @@
+50
+Item,weight,value,n_items
+Phone,0.19,1000,5
+Laptop,1.1,700,2
+Camera,0.5,400,3
+Headphones,0.1,150,10
+Watch,0.2,300,4
+Sunglasses,0.15,200,5
+Power Bank,0.3,250,2
+Portable Speaker,0.5,300,3
+Tablet,0.8,600,2
+Fitness Tracker,0.1,200,5
