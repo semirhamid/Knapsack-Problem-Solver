@@ -37,7 +37,7 @@ Branch and bound is a more efficient version of the brute force approach, where 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/knapsack-problem-solver.git
+   git clone https://github.com/semirhamid/Knapsack-Problem-Solver.git
    ```
 2. Navigate into the project directory:
    ```sh
